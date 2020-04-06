@@ -13,21 +13,22 @@ body{
   margin: auto;
 }
 .top-logo{
-  padding-top: 60px;
+  margin-top: 70px;
 }
 .top-title{
-  padding-top: 40px;
+  margin-top: 40px;
   text-align: center;
   color: hsl(0, 0%, 59%);
   font-size: 64px;
   font-weight: 300;
 }
 .top-title-mod{
-  color: #000000;
+  color: hsl(209, 33%, 12%);
   font-weight: 600;
 }
 .top-text{
-  padding-top: 20px;
+  margin-top: 20px;
+  color: hsl(209, 33%, 12%)
 }
 .subtitle-form{
   position: relative;
@@ -67,6 +68,10 @@ body{
   margin: 40px;
   text-align: center;
   color: hsl(223, 87%, 63%);
+}
+footer{
+  margin: 10px;
+  color: hsl(0, 0%, 59%);
 }
 .attribution {
   font-size: 11px;
